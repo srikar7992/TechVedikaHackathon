@@ -5,7 +5,7 @@ A positive proper divisor divides a number without leaving any remainder.
 
 Input Format
 ------------
--> List of numbers varying from 1 <= T <= 10 and count of the list / array elements is in between 1 <= N <= 106
+-> List of numbers varying from 1 <= Number <= 10^6 and count of the list / array elements is in between 1 <= Count <= 10
 
 Output Format
 -------------
