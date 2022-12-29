@@ -31,9 +31,6 @@ Example Output
 
 Example Explanation
 -------------------
-
-Explanation 1:
---------------
  For A = 4, the answer is "NO" as sum of its proper divisors = 1 + 2 = 3, is not equal to 4. 
  For A = 6, the answer is "YES" as sum of its proper divisors = 1 + 2 + 3 = 6, is equal to 6. 
  For A = 3, the answer is "NO" as sum of its proper divisors = 1, is not equal to 3. 
